@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Bean 的数字花园/"}
+{"dg-publish":true,"permalink":"/Bean 的数字花园/","tags":["gardenEntry"]}
 ---
 
 ## 开头
