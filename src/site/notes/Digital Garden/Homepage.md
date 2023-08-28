@@ -6,14 +6,14 @@
 >所求于管家的，时要他有忠心。
 
 ## 办公软件
-1. [微软 365](https://www.adobe.com/acrobat/about-adobe-pdf.html)
+1. [[Digital Garden/微软三件套\|微软三件套]]
 2. [PDF](https://www.adobe.com/acrobat/about-adobe-pdf.html)
 3. Chatgpt
 4. 备忘录
 
 ----
 
-## 翻墙软件
+## 梯子
 1. 苹果手机/平板/电脑
 2. windows 电脑
 3. 安卓手机
@@ -30,6 +30,5 @@
 3. 
 
 ----
-
 
 ## 结尾
