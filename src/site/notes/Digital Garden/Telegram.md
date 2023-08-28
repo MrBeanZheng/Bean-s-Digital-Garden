@@ -21,6 +21,7 @@
 ### 2. 中文界面设置
 1. 复制下面链接到搜索框
    https://t.me/Simplified_Chinese/14
+   
    ![Pasted image 20230828220140.png|475](/img/user/01-Attachment/Pasted%20image%2020230828220140.png)
 
 2. 点击箭头所指选项
