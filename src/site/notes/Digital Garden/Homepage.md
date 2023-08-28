@@ -8,7 +8,7 @@
 ## 办公软件
 1. [[Digital Garden/微软三件套\|微软三件套]]
 2. [[Digital Garden/PDF\|PDF]]]
-3. Chatgpt
+3. [[Digital Garden/Chatgpt\|Chatgpt]]
 4. 备忘录
 
 ----
