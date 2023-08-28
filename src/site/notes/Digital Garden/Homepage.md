@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Digital Garden/Homepage/","tags":["gardenEntry"]}
 ---
 
+
 >Moreover, it is required of stewards that they be found faithful.
 >所求于管家的，时要他有忠心。
 
