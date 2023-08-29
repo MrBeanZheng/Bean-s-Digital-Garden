@@ -12,7 +12,7 @@
 ---
 ### ChatGPT 官网
 
-**ChatGPT**的官方网址是 [https://chat.openai.com](https://chat.openai.com/) (需要[[Digital Garden/科学上网\|科学上网]]环境)
+**ChatGPT**的官方网址是 [https://chat.openai.com](https://chat.openai.com/) (需要[[Digital Garden/科学上网/苹果设备\|苹果设备]]环境)
 
 请认准其官方域名 [openai.com](https://openai.com/)，不是这个域名的ChatGPT服务都是镜像站或者假冒伪劣网站，请注意辨别。（国内山寨版本很多）
 
@@ -29,7 +29,7 @@
 #### 1.注册 ChatGPT 账号
 
 
-1. 将网络环境切换成[[Digital Garden/科学上网\|科学上网]]（注意：必须是国外 IP，如美国、加拿大，日本，新加坡等 openai 支持的国家，香港澳门  IP 是不行的，**优先选择美国  IP**），**且后续整个注册流程都必须在此网络环境下进行。**
+1. 将网络环境切换成[[Digital Garden/科学上网/苹果设备\|苹果设备]]（注意：必须是国外 IP，如美国、加拿大，日本，新加坡等 openai 支持的国家，香港澳门  IP 是不行的，**优先选择美国  IP**），**且后续整个注册流程都必须在此网络环境下进行。**
    
 2. 打开[官方注册链接]([https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)) , 点击 Sign up, 并使用自己的国外国邮箱进行账号注册，推荐[[Digital Garden/常用工具/谷歌邮箱\|谷歌邮箱]]
    ![Pasted image 20230828164716.png|400](/img/user/01-Attachment/Pasted%20image%2020230828164716.png)
