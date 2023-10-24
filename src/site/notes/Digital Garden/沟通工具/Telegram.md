@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Digital Garden/沟通工具/Telegram/"}
+{"dg-publish":true,"permalink":"/digital-garden//telegram/"}
 ---
 
 
