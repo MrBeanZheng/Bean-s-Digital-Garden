@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Digital Garden/办公软件/PDF/"}
+{"dg-publish":true,"permalink":"/digital-garden//pdf/"}
 ---
 
 
