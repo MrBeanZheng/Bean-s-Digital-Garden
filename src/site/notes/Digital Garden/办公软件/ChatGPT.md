@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Digital Garden/办公软件/ChatGPT/"}
+{"dg-publish":true,"permalink":"/digital-garden//chat-gpt/"}
 ---
 
 
@@ -31,7 +31,7 @@
 
 1. 将网络环境切换成[[Digital Garden/科学上网/苹果设备\|苹果设备]]（注意：必须是国外 IP，如美国、加拿大，日本，新加坡等 openai 支持的国家，香港澳门  IP 是不行的，**优先选择美国  IP**），**且后续整个注册流程都必须在此网络环境下进行。**
    
-2. 打开[官方注册链接]([https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)) , 点击 Sign up, 并使用自己的国外国邮箱进行账号注册，推荐[[Digital Garden/常用工具/谷歌邮箱\|谷歌邮箱]]
+2. 打开[官方注册链接]([https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)) , 点击 Sign up, 并使用自己的国外国邮箱进行账号注册，推荐[[谷歌邮箱\|谷歌邮箱]]
    ![Pasted image 20230828164716.png|400](/img/user/01-Attachment/Pasted%20image%2020230828164716.png)
    
 3. 在跳转的页面中选择 Continue with Google
